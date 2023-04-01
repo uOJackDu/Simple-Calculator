@@ -1,6 +1,9 @@
 This is a simple calculator written in python.
 
-I used tkinter.
+I used the tkinter library.
+
+It supports logarithms, trig functions, and inverse trig functions.
+It evaluating the expression entered as a whole.
 
 calculator.py is the calculator.
 
